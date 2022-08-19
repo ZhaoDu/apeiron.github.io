@@ -1,26 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/08/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Ithaca</title>
+    <url>/2022/08/19/Ithaca/</url>
+    <content><![CDATA[<h2 id="Ithaca"><a href="#Ithaca" class="headerlink" title="Ithaca "></a><center>Ithaca </center></h2><center> As you set out for Ithaca </center>
+<center> hope your road is a long one, </center>
+<center> full of adventure, full of discovery. </center> <br/>
+<center> The Laestrygonians, the Cyclops, fierce Poseidon </center>
+<center> don't be afraid of them: </center>
+<center> you'll never find things like that on your way </center>
+<center> if you keep your thoughts raised high, </center> 
+<center> if rare excitement stirs your spirit and your body. </center>
+<center> The Laestrygonians, the Cyclops, wild Poseidon</center>
+<center> you won't encounter them </center>
+<center> unless you bring them along inside your soul,</center>
+<center> unless your soul sets them up in front of you. </center> <br/>
+<center> Hope your road is a long one.</center> 
+<center> May there be many summer mornings when,</center>
+<center> with what pleasure, what joy, </center>
+<center> you enter harbors you're seeing for the first time; </center>
+<center> may you stop at Phoenician trading stations to buy fine things, </center>
+<center> mother of pearl and coral, amber and ebony, </center>
+<center> sensual perfume of every kind as many sensual perfumes as you can; </center>
+<center> and may you visit many Egyptian cities to learn </center>
+<center> and go on learning from their scholars. </center> <br/>
+<center> Keep Ithaca always in your mind. </center>
+<center> Arriving there is what you're destined for. </center>
+<center> But don't hurry the journey at all.</center>
+<center> Better if it lasts for years, </center>
+<center> so that you're old by the time you reach the island,</center>
+<center> wealthy with all you've gained on the way, </center>
+<center> not expecting Ithaca to make you rich. </center> <br/>
+<center> Ithaca gave you the marvelous journey. </center>
+<center> Without her you wouldn't have set out. </center>
+<center> She has nothing left to give you now. </center> <br/>
+<center> And if you find her poor, </center>
+<center> Ithaca won't have fooled you. </center>
+<center> Wise as you will have become, </center>
+<center> so full of experience, </center>
+<center> you will have understood by then </center>
+<center> what these Ithacas mean. </center>
+
+<hr>
+<h2 id="伊萨卡岛"><a href="#伊萨卡岛" class="headerlink" title="伊萨卡岛 "></a><center>伊萨卡岛 </center></h2><center> 当你启程前往伊萨卡</center>
+<center> 但愿你的道路漫长,</center>
+<center> 充满奇迹，充满发现。</center>
+<center> 莱斯特律戈涅斯巨人，独眼巨人，</center>
+<center> 愤怒的波塞冬海神——不要怕他们：</center>
+<center> 你将不会在途中碰到诸如此类的怪物，</center>
+<center> 只要你高扬你的思想，</center>
+<center> 只要有一种特殊的感觉，</center>
+<center> 接触你的精神和肉体。</center>
+<center> 莱斯特律戈涅斯巨人，独眼巨人，</center>
+<center> 野蛮的波塞冬海神——你将不会跟他们遭遇</center>
+<center> 除非你将他们一直带进你的灵魂，</center>
+<center> 除非你的灵魂将他们树立在你的面前。</center><br/> 
+<center> 但愿你的道路漫长。</center>
+<center> 但愿那里有很多夏天的早晨，</center>
+<center> 当你无比快乐和兴奋地</center>
+<center> 进入你第一次见到的海港：</center>
+<center> 但愿你在腓尼基人的贸易市场停步</center>
+<center> 购买精美的物件，</center>
+<center> 珍珠母和珊瑚，琥珀和黑檀，</center>
+<center> 各式各样销魂的香水</center>
+<center> 你要多销魂就有多销魂：</center>
+<center> 愿你走访众多埃及城市</center>
+<center> 向那些有识之士讨教并继续讨教。</center><br/> 
+<center> 让伊萨卡常在你心中，</center>
+<center> 抵达那里是你此行的目的。</center>
+<center> 但路上不要过于匆促，</center>
+<center> 最好多延长几年，</center>
+<center> 那时当你上得了岛你也就老了，</center>
+<center> 一路所得已经教你富甲四方，</center>
+<center> 用不着伊萨卡来让你财源滚滚。</center><br/> 
+<center> 伊萨卡赋予你如此神奇的旅行，</center>
+<center> 没有它你可不会启程前来。</center>
+<center> 现在它再也没有什么可以给你的了。</center><br/> 
+<center> 而如果你发现它原来是这么穷，</center>
+<center> 那可不是伊萨卡想愚弄你。</center>
+<center> 既然那时你已经变得很聪慧，并且见多识广，</center>
+<center> 你也就不会不明白，这些伊萨卡意味着什么。</center>
+
 ]]></content>
-  </entry>
-  <entry>
-    <title>举纲张目</title>
-    <url>/2022/08/02/test/</url>
-    <content><![CDATA[<p>但愿人长久，千里共同途。</p>
-<blockquote>
-<p>但愿人长久，千里共同途。</p>
-</blockquote>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>文史</category>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>诗</tag>
+      </tags>
   </entry>
 </search>
